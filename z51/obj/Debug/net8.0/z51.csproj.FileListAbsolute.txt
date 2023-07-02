@@ -1,0 +1,5 @@
+C:\Users\Владелец\Desktop\Семинар 7\z51\obj\Debug\net8.0\z51.csproj.AssemblyReference.cache
+C:\Users\Владелец\Desktop\Семинар 7\z51\obj\Debug\net8.0\z51.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Владелец\Desktop\Семинар 7\z51\obj\Debug\net8.0\z51.AssemblyInfoInputs.cache
+C:\Users\Владелец\Desktop\Семинар 7\z51\obj\Debug\net8.0\z51.AssemblyInfo.cs
+C:\Users\Владелец\Desktop\Семинар 7\z51\obj\Debug\net8.0\z51.csproj.CoreCompileInputs.cache
